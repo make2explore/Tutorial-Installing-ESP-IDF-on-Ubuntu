@@ -34,10 +34,10 @@ This tutorial is about Setting up Development Environment for ESP-IDF in Ubuntu 
 - **Menu Configuration Tool Demo** using ESP32C3 and C6 Dev Board  
 
 **Software**
-- Visual Studio Code IDE  
+- Ubuntu OS 22.04 LTS  
 
 **Hardware**
-- Espressif ESP32C3 Development Kit  
+- Espressif ESP32C3 and C6 Development Kit  
 
 ------------------------------------------------------------------------------------------------------
 

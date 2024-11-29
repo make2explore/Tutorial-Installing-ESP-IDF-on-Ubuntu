@@ -55,6 +55,7 @@ This tutorial is about Installation of ESP-IDF Extension in VSCode. We've discus
 📙 ESP-IDF Docs 🔗 https://docs.espressif.com/projects/esp-idf/en/stable/esp32/get-started/index.html  
 📘 ESP-IDF Git 🔗 https://github.com/espressif/esp-idf  
 📗 ESP-IDF VScode Installation Git Repo - 🔗 https://github.com/espressif/vscode-esp-idf-extension  
+📗 ESP-IDF Get Started Examples - 🔗 https://github.com/espressif/esp-idf/tree/master/examples/get-started  
 
 
 ------------------------------------------------------------------------------------------------------

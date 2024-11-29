@@ -24,11 +24,9 @@
 ESP-IDF is commonly used in developing applications like smart home devices, wearables, industrial automation systems, and other IoT products that require reliable and secure wireless communication.
 
 **Getting Started:**  
-To start with ESP-IDF, you can download it from Espressif's official GitHub repository or use the ESP-IDF plugin for Visual Studio Code, which provides an easy setup and development environment.
-  
-Overall, ESP-IDF is a powerful and flexible framework designed specifically for Espressif's range of microcontrollers, making it a preferred choice for developing IoT solutions.
+In order to use ESP-IDF with the ESP32, you need to install some software packages based on your Operating System. This setup guide helps you on getting everything installed on Linux.
 
-This tutorial is about Installation of ESP-IDF Extension in VSCode. We've discussed..  
+This tutorial is about Setting up Development Environment for ESP-IDF in Ubuntu OS. We've discussed..  
 - **ESP-IDF Programming Guide** - Basic Introduction. 
 - **Standard Toolchain Setup for Linux** - This is a detailed roadmap to walk you through the installation process.  
 - **First Steps on ESP-IDF** - Project Creation

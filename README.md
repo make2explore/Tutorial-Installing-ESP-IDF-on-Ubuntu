@@ -29,11 +29,11 @@ To start with ESP-IDF, you can download it from Espressif's official GitHub repo
 Overall, ESP-IDF is a powerful and flexible framework designed specifically for Espressif's range of microcontrollers, making it a preferred choice for developing IoT solutions.
 
 This tutorial is about Installation of ESP-IDF Extension in VSCode. We've discussed..  
-- **What is ESP-IDF ?** - Basic Introduction. 
-- **Important Aspect** - Features, Specifications, Stack, SDK Et Cetra.  
-- **How to Get Started** - Demo
-- **Installation Steps of ESP-IDF Extension**
-- **Demo of ESP-IDF - Blink Applications** using ESP32C3 Dev Board  
+- **ESP-IDF Programming Guide** - Basic Introduction. 
+- **Standard Toolchain Setup for Linux** - This is a detailed roadmap to walk you through the installation process.  
+- **First Steps on ESP-IDF** - Project Creation
+- **Getting Started Projects** - Blink Demo
+- **Menu Configuration Tool Demo** using ESP32C3 and C6 Dev Board  
 
 **Software**
 - Visual Studio Code IDE  
